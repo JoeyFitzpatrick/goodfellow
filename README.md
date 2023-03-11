@@ -1,0 +1,1 @@
+Working through Deep Learning by Ian Goodfellow, and keeping my code here.
